@@ -70,7 +70,7 @@ If the session is created successfully, the response will include a unique `sess
 }
 ```
 
-### Example in Postman
+### Example in [Postman]([url](https://medium.com/assertqualityassurance/rest-api-test-automation-with-postman-jenkins-1-of-3-860edf3c2a45)) 
 1. Select the `POST` method.
 2. Enter the URL: `https://hackdiversity.xyz/api/start-session`
 3. Add the following JSON to the request body:
