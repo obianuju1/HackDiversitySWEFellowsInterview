@@ -32,7 +32,8 @@ This exercise evaluates the following key skills:
 ### Preparation and Setup
 
 1. **Fork the Repository**
-   - Fork the provided repository and clone it locally. If no starter repository is provided, create a new repo for your work.
+   - You must **privately fork** the provided repository and clone it locally. **Publicly forked repositories will result in disqualification from the interview process.**
+   - After creating the private fork, add `HackDotDiversity` as a collaborator to your repository.
    - Make frequent commits with meaningful messages and push changes to GitHub to maintain a clear history of your progress.
 
 2. **Time Allocation**
@@ -126,6 +127,14 @@ Replace `<session_id>` with the unique session ID received from the `/api/start-
 
 ---
 
+### Submission Instructions
+
+- In addition to completing the challenge in your **private fork** and adding `HackDotDiversity` as a collaborator:
+  - Submit a **zip file** containing your code to the following link:  
+    [Submit Here](https://forms.gle/2zby2Pia3BR4e2na7).
+
+---
+
 ### Helpful Tips
 
 **Algorithm Hints**  
@@ -147,7 +156,7 @@ Replace `<session_id>` with the unique session ID received from the `/api/start-
 
 **Version Control and Submission**  
 - **Commit Regularly**: Commit your code after completing significant tasks, such as implementing filtering or sorting.
-- **Final Submission**: Push all changes to GitHub, with clear commit messages. Ensure your final code is readable and organized.
+- **Final Submission**: Push all changes to your **private fork** of the GitHub repository and add `HackDotDiversity` as a collaborator. Submit a zip file of your code to the provided Google Form link.
 
 ---
 
@@ -165,7 +174,9 @@ Your submission will be evaluated on the following:
 
 3. **Completion and Submission**
    - The correct sorted list is submitted via the API.
-   - Your code is pushed to GitHub with a clear, consistent commit history.
+   - Your code is pushed to a **private GitHub fork** with a clear, consistent commit history.
+   - You’ve added `HackDotDiversity` as a collaborator.
+   - A zip file of your code is submitted to the provided Google Form link.
 
 4. **Use of GitHub**
    - Demonstrate proficiency with Git by committing regularly and following a structured workflow.
@@ -174,6 +185,5 @@ Your submission will be evaluated on the following:
    - Minor inefficiencies are acceptable, but a well-optimized solution will score higher.
 
 ---
-
 
 This challenge is an opportunity to showcase your problem-solving skills with data structures, algorithms, and APIs. Take your time to review the instructions, think through your approach, and reach out if you have any questions. We look forward to seeing your solution—GOOD LUCK 👾!
