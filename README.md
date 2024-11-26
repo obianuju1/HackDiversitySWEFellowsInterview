@@ -78,8 +78,8 @@ If the session is created successfully, the response will include a unique `sess
 
     ```json
     {
-        "firstName": "Jean-Jacques",
-        "lastName": "Dessalines"
+        "firstName": "Jean-Jacques", //Input Your First Name
+        "lastName": "Dessalines" //Input Your Last Name
     }
     ```
 
